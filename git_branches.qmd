@@ -41,4 +41,6 @@ Branch 'new-branch' set up to track remote branch 'new-branch' from 'origin'.
 
 test it again
 
+git checkout main \<\<\< to get back to main branch and pull into your local main branch
+
 git delete -d to remove it locally
