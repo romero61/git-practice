@@ -24,3 +24,19 @@ You can add options to executable code like this
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
+
+\>\>\> /usr/bin/git checkout -B new-branch
+
+Switched to a new branch 'new-branch'
+
+\>\>\> /usr/bin/git push -u origin new-branch
+
+remote: 
+remote: Create a pull request for 'new-branch' on GitHub by visiting: 
+remote: https://github.com/romero61/git-practice/pull/new/new-branch 
+remote: 
+To https://github.com/romero61/git-practice.git
+ \* \[new branch\] new-branch -\> new-branch
+Branch 'new-branch' set up to track remote branch 'new-branch' from 'origin'.
+
+test it again
