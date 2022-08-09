@@ -44,3 +44,5 @@ test it again
 git checkout main \<\<\< to get back to main branch and pull into your local main branch
 
 git delete -d to remove it locally
+
+still not sure how to delete branch locally
